@@ -1,0 +1,6 @@
+{
+  "suggested_slug": "uk-ofgem-switching-advisor",
+  "intent": "Calculate exact savings from shifting high-energy appliances to off-peak hours based on the latest 2026 Ofgem price cap values",
+  "api_endpoint": "/thresholds?country=GB",
+  "seo_priority": "MAXIMUM"
+}
